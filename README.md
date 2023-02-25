@@ -1,5 +1,6 @@
 # Company X Credit Card Usage Analysis
 Data given in CSV, EDA completed in Python(Pandas), exported to PostgreSQL, and visualized in Tableau. 
+Presentation located [HERE](https://github.com/josephmsmith/Company-X-CC-Usage-Analysis/blob/main/Fintech%20Service%20Company%20-%20CC%20USAGE%20ANALYSIS%20-%20Case%20Study.pdf)
 
 ## Introduction
 Company X offers its customers the ability to accept payments by card within the app. 
