@@ -1,4 +1,6 @@
 # Company X Credit Card Usage Analysis
+Data given in CSV, EDA completed in Python(Pandas), exported to PostgreSQL, and visualized in Tableau. 
+
 ## Introduction
 Company X offers its customers the ability to accept payments by card within the app. 
 Each time Company X processes a payment it earns revenue, which makes increasing the adoption of card payments by customers a key driver of financial performance. 
