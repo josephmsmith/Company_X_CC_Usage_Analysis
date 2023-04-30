@@ -13,7 +13,7 @@ What organizations will be good candidates for a credit card usage campaign for 
 The goal is to increase credit card usage since adoption is a key driver of Company X long-term financial performance. 
 
 ## About the Data
-The data source being used for this presentation is the “BizOps - Fintech Data Set” provided by Company X. The data set gives general info about organizational specifications, like enrollment date, industry, size, and plan as well as some financial insights like expected life value at enrollment, total paid gross merchandise value in the last 30 days, and total credit card GMV. 
+The data source being used for this presentation is provided by Company X. The data set gives general info about organizational specifications, like enrollment date, industry, size, and plan as well as some financial insights like expected life value at enrollment, total paid gross merchandise value in the last 30 days, and total credit card GMV. 
 
 Exploratory Data Analysis:
 1000 rows x 15 columns. Dates: 03/2015-03/2021. HVAC has the highest organization count, company size has a positive skew (1 - 6 employees most frequent), small tier plan is the most popular, monthly plan the most popular, (CA, FL, TX) contain highest number of organizations, expected lifetime value has positive skew, and 39 companies have 100% CC_USAGE.
