@@ -40,8 +40,6 @@ Starting questions for analysis:
 Identified 59 potential organizations. Next steps should include an analysis further filtering this group with information such as lifetime_value_left and profit_margin. Subsequent analysis on Plumbing. 
 
 ## Resources
-[Housecall Pro](https://www.housecallpro.com/)
-
 [PNAS](https://www.pnas.org/doi/10.1073/pnas.2006991117#:~:text=Across%20the%20full%20sample%2C%2043,being%20less%20of%20a%20factor.)
 
 [US Home Service Market Size](https://www.verifiedmarketresearch.com/product/us-home-service-market/)
